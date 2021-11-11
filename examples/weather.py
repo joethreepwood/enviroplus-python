@@ -32,4 +32,4 @@ while True:
 Pressure: {:05.2f} hPa
 Relative humidity: {:05.2f} %
 """.format(temperature, pressure, humidity))
-    time.sleep(1)
+    time.sleep(300)
